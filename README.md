@@ -2,6 +2,10 @@
 
 A compilation including JavaScript coding challenges discovered along the journey of development
 
+- factorialize
+
+  > Multiplying a number by each consecutive number from 1 to that number.
+
 - find-intersection
 
   > Find the intersection of two arrays and list the common values present in each of the arrays.
@@ -17,7 +21,3 @@ A compilation including JavaScript coding challenges discovered along the journe
 - zip-array
 
   > Combining two numeric arrays together with the next index of each array following in order, being "zipped".
-
-- factorialize
-
-  > Multiplying a number by each consecutive number from 1 to that number.
