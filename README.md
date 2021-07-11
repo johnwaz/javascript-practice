@@ -13,3 +13,7 @@ A compilation including JavaScript coding challenges discovered along the journe
 - string-splosion
 
   > Return a string to repeat from the beginning with the next character added, until the string is complete.
+
+- zip-array
+
+  > Combining two numeric arrays together with the next index of each array following in order, being "zipped".
