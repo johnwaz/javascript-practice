@@ -17,3 +17,7 @@ A compilation including JavaScript coding challenges discovered along the journe
 - zip-array
 
   > Combining two numeric arrays together with the next index of each array following in order, being "zipped".
+
+- factorialize
+
+  > Multiplying a number by each consecutive number from 1 to that number.
