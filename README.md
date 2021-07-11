@@ -5,3 +5,7 @@ A compilation including JavaScript coding challenges discovered along the journe
 - find-intersection
 
   > Find the intersection of two arrays and list the common values present in each of the arrays.
+
+- reversed-word
+
+  > Reversing the letters in a string so the word is displayed backwards.
