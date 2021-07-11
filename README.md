@@ -10,6 +10,10 @@ A compilation including JavaScript coding challenges discovered along the journe
 
   > Find the intersection of two arrays and list the common values present in each of the arrays.
 
+- find-longest-word-length
+
+  > Find the longest word in a string by the number of characters.
+
 - reversed-word
 
   > Reversing the letters in a string so the word is displayed backwards.
