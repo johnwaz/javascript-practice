@@ -9,3 +9,7 @@ A compilation including JavaScript coding challenges discovered along the journe
 - reversed-word
 
   > Reversing the letters in a string so the word is displayed backwards.
+
+- string-splosion
+
+  > Return a string to repeat from the beginning with the next character added, until the string is complete.
