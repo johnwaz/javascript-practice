@@ -26,6 +26,10 @@ A compilation including JavaScript coding challenges discovered along the journe
 
   > Return a string to repeat from the beginning with the next character added, until the string is complete.
 
+- title-case
+
+  > Return a string sentence that has each of the words beginning with all uppercase letters.
+
 - zip-array
 
   > Combining two numeric arrays together with the next index of each array following in order, being "zipped".
