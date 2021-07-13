@@ -14,6 +14,10 @@ A compilation including JavaScript coding challenges discovered along the journe
 
   > Find the longest word in a string by the number of characters.
 
+- greatest-value
+
+  > Find the highest number value in an array.
+
 - longest-word
 
   > Find the longest word in a string and display the word as a result.
