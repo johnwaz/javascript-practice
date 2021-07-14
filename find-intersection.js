@@ -2,6 +2,7 @@ function findIntersection(strArr) {
   let intArr = [];
   let firstGroup = strArr[0].split(", ");
   let secondGroup = strArr[1].split(", ");
+  
   for (let i = 0; i < firstGroup.length; i++) {
     if (secondGroup.includes(firstGroup[i])) {
       intArr.push(firstGroup[i]);
