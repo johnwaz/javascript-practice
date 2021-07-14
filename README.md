@@ -2,6 +2,10 @@
 
 A compilation including JavaScript coding challenges discovered along the journey of development
 
+- char-count
+
+  > Count the number of characters in a string.
+
 - convert-time
 
   > Convert hours into minutes or seconds with a template literal.
