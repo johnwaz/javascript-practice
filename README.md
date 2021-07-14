@@ -26,6 +26,10 @@ A compilation including JavaScript coding challenges discovered along the journe
 
   > Find the highest number value in an array.
 
+- int-string
+
+  > Return an integer as a string.
+
 - longest-word
 
   > Find the longest word in a string and display the word as a result.
