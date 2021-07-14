@@ -2,6 +2,10 @@
 
 A compilation including JavaScript coding challenges discovered along the journey of development
 
+- convert-time
+
+  > Convert hours into minutes or seconds with a template literal.
+
 - factorialize
 
   > Multiplying a number by each consecutive number from 1 to that number.
