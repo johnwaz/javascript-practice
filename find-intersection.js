@@ -15,4 +15,4 @@ function findIntersection(strArr) {
   }
 }
 
-findIntersection(["2, 4, 5, 10, 14", "2, 3, 4, 10, 16"]) // Expected Output: 2, 4, 10
+findIntersection(["2, 4, 5, 10, 14", "2, 3, 4, 10, 16"]); // Expected Output: 2, 4, 10
