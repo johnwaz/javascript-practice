@@ -30,6 +30,10 @@ A compilation including JavaScript coding challenges discovered along the journe
 
   > Print numbers from 1 to 30. Printing "Fizz" for multiples of 3, "Buzz" for multiples of 5, and "Fizz Buzz" for multiples of 3 and 5.
 
+- front-back
+
+  > Return a string where the first and last characters have been switched.
+
 - greatest-value
 
   > Find the highest number value in an array.
