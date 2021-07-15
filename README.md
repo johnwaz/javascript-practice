@@ -2,6 +2,10 @@
 
 A compilation including JavaScript coding challenges discovered along the journey of development
 
+- back-around
+
+  > Return a string with the last character added to the beginning and end.
+
 - char-count
 
   > Count the number of characters in a string.
