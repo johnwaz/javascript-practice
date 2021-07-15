@@ -4,7 +4,7 @@ A compilation including JavaScript coding challenges discovered along the journe
 
 - back-around
 
-  > Return a string with the last character added to the beginning and end.
+  > Return a string with the last character added to the beginning and the end.
 
 - char-count
 
