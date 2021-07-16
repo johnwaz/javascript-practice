@@ -38,6 +38,10 @@ A compilation including JavaScript coding challenges discovered along the journe
 
   > Find the highest number value in an array.
 
+- greeting
+
+  > Return a string with the greeting "Hello" in front of the name.
+
 - int-string
 
   > Return an integer as a string.
