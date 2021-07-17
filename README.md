@@ -2,6 +2,10 @@
 
 A compilation including JavaScript coding challenges discovered along the journey of development
 
+- array-to-string
+
+  > Return an array of items into the form of a string.
+
 - back-around
 
   > Return a string with the last character added to the beginning and the end.
