@@ -70,6 +70,10 @@ A compilation including JavaScript coding challenges discovered along the journe
 
   > Return a string to repeat from the beginning with the next character added, until the string is complete.
 
+- string-to-array
+
+  > Return a string of words into the form of an array.
+
 - title-case
 
   > Return a string sentence that has each of the words beginning with all uppercase letters.
