@@ -1,6 +1,6 @@
 # javascript-practice
 
-A compilation including JavaScript coding challenges discovered along the journey of development
+A compilation including JavaScript coding challenges discovered along the journey of development.
 
 - array-to-string
 
